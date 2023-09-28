@@ -2,4 +2,4 @@
 ---
 some descriptions
 ---
-more descriptions
+1 string was deleted
